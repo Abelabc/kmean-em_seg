@@ -3,13 +3,13 @@
 ## 任务要求
 给出了两个马赛克图像（mosaicA.bmp 和 mosaicB.bmp），利用kmeans和em图像分割方法进行分割，还提供了地图（mapA.bmp 和 mapB.bmp）用于数值比较。这涉及的特征可以是 Gabor 提取的多维特征向量过滤器组。您可以微调方向数（例如，8）和刻度（例如，5）得到最佳分割性能（最高分类精度）。
 
-[![](https://github.com/Abelabc/kmean-em_seg/blob/main/mosaic%20B.bmp)](https://github.com/Abelabc/kmean-em_seg/blob/main/mosaic%20A.bmp "mosaic A.bmp")
+[![](https://github.com/Abelabc/kmean-em_seg/blob/main/mosaic%20A.bmp)](https://github.com/Abelabc/kmean-em_seg/blob/main/mosaic%20A.bmp "mosaic A.bmp")
 
-> 图为：mosaic B.bmp
+> 图为：mosaic A.bmp
 
 [![](https://github.com/Abelabc/kmean-em_seg/blob/main/mapA.bmp)](https://github.com/Abelabc/kmean-em_seg/blob/main/mapA.bmp "mapA.bmp")
 
-> 图为：mapB.bmp
+> 图为：mapA.bmp
 
 ## 图像生成
 ### 1.导入库
